@@ -1,2 +1,3 @@
-# App-Tragos-Delivery-example
-Use MVVM, coroutines, Room, Clean, Jetpack
+# App Tragos Delivery - Android 
+--> Use MVVM, coroutines, Room, Clean, Jetpack <--
+

@@ -8,8 +8,8 @@
     <fragment
         android:id="@+id/mainFragment"
         android:name="com.durand.apptragos.ui.MainFragment"
-        android:label="fragment_main"
-        tools:layout="@layout/fragment_main" >
+        android:label="Tragos"
+        tools:layout="@layout/fragment_main">
         <action
             android:id="@+id/action_mainFragment_to_detailTragoFragment"
             app:destination="@id/detailTragoFragment" />
@@ -17,7 +17,7 @@
     <fragment
         android:id="@+id/detailTragoFragment"
         android:name="com.durand.apptragos.ui.DetailTragoFragment"
-        android:label="fragment_detail_trago"
+        android:label="Detalle"
         tools:layout="@layout/fragment_detail_trago" />
 
 </navigation>
